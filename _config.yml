@@ -108,18 +108,18 @@ author:
   location         : "South Korea"
   email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "jkc9709@hanmail.net"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "jkc9709@hanmail.net"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jkc-mycode.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jkc-mycode"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 # Site Footer
 footer:
